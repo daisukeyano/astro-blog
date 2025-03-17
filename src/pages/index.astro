@@ -3,6 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { Image } from 'astro:assets';
+import heroImage from '../assets/hero.jpg';
 ---
 
 <!doctype html>
@@ -13,6 +15,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 	<body>
 		<Header />
 		<main>
+			<Image src={heroImage} alt="ヒーローイメージ" />
 			<img src="/hero.jpg" alt="Hero Image" width="600" height="400" />
 			<h2>九州神社巡りへようこそ！</h2>
 
