@@ -1,11 +1,10 @@
 ---
 title: '筥崎宮（はこざきぐう）'
 description: '筑前國一之宮 筥崎宮'
-pubDate: 'Jul 08 2025'
-heroImage: '/blog-placeholder-3.jpg'
+pubDate: '2025/3/17'
+heroImage: '/hakozakiguu.jpg'
 ---
 
-# 筥崎宮（はこざきぐう）
 
 ## 住所  
 福岡県福岡市東区箱崎1丁目22-1  
